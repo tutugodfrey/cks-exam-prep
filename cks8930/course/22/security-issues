@@ -1,0 +1,4 @@
+Dockerfile-mysql
+deployment-redis.yaml
+pod-nginx.yaml
+statefulset-nginx.yaml

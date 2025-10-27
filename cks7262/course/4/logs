@@ -1,0 +1,13 @@
+Events:
+  Type     Reason        Age                From                   Message
+  ----     ------        ----               ----                   -------
+  Warning  FailedCreate  77s                replicaset-controller  Error creating: pods "container-host-hacker-576798b6ff-clxtr" is forbidden: violates PodSecurity "baseline:latest": hostPath volumes (volume "containerdata")
+  Warning  FailedCreate  77s                replicaset-controller  Error creating: pods "container-host-hacker-576798b6ff-2fd4w" is forbidden: violates PodSecurity "baseline:latest": hostPath volumes (volume "containerdata")
+  Warning  FailedCreate  77s                replicaset-controller  Error creating: pods "container-host-hacker-576798b6ff-qfqxm" is forbidden: violates PodSecurity "baseline:latest": hostPath volumes (volume "containerdata")
+  Warning  FailedCreate  77s                replicaset-controller  Error creating: pods "container-host-hacker-576798b6ff-7zg2z" is forbidden: violates PodSecurity "baseline:latest": hostPath volumes (volume "containerdata")
+  Warning  FailedCreate  77s                replicaset-controller  Error creating: pods "container-host-hacker-576798b6ff-vbtfw" is forbidden: violates PodSecurity "baseline:latest": hostPath volumes (volume "containerdata")
+  Warning  FailedCreate  77s                replicaset-controller  Error creating: pods "container-host-hacker-576798b6ff-m8v5m" is forbidden: violates PodSecurity "baseline:latest": hostPath volumes (volume "containerdata")
+  Warning  FailedCreate  77s                replicaset-controller  Error creating: pods "container-host-hacker-576798b6ff-586b2" is forbidden: violates PodSecurity "baseline:latest": hostPath volumes (volume "containerdata")
+  Warning  FailedCreate  76s                replicaset-controller  Error creating: pods "container-host-hacker-576798b6ff-4gmhq" is forbidden: violates PodSecurity "baseline:latest": hostPath volumes (volume "containerdata")
+  Warning  FailedCreate  76s                replicaset-controller  Error creating: pods "container-host-hacker-576798b6ff-8frv2" is forbidden: violates PodSecurity "baseline:latest": hostPath volumes (volume "containerdata")
+  Warning  FailedCreate  36s (x7 over 74s)  replicaset-controller  (combined from similar events): Error creating: pods "container-host-hacker-576798b6ff-6xzbr" is forbidden: violates PodSecurity "baseline:latest": hostPath volumes (volume "containerdata")
